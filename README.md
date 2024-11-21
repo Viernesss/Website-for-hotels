@@ -1,2 +1,2 @@
-# lagoona-hotels.github.io
+# Website for hotels
 Сайт для сети отелей
